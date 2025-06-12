@@ -3,31 +3,31 @@
 	url = ../mono
 [submodule "mono-basic"]
 	path = mono-basic
-	url = ../mono-basic
+	url = https://github.com/wine-mono/mono-basic
 [submodule "FNA"]
 	path = FNA
-	url = ../FNA
+	url = https://github.com/wine-mono/FNA
 [submodule "FNA.NetStub"]
 	path = FNA.NetStub
-	url = ../FNA.NetStub
+	url = https://github.com/wine-mono/FNA.NetStub
 [submodule "winforms"]
 	path = winforms
-	url = ../winforms
+	url = https://github.com/wine-mono/winforms
 [submodule "winforms-datavisualization"]
 	path = winforms-datavisualization
-	url = ../winforms-datavisualization
+	url = https://github.com/wine-mono/winforms-datavisualization
 [submodule "wpf"]
 	path = wpf
-	url = ../wpf
+	url = https://github.com/wine-mono/wpf
 [submodule "monoDX"]
 	path = monoDX
-	url = ../monoDX
+	url = https://github.com/wine-mono/monoDX
 [submodule "vstests"]
 	path = vstests
-	url = ../wine-mono-vstests
+	url = https://github.com/wine-mono/wine-mono-vstests
 [submodule "monolite"]
 	path = monolite
-	url = ../monolite-binaries.git
+	url = https://github.com/wine-mono/monolite-binaries.git
 [submodule "mono-basic-compat"]
 	path = mono-basic-compat
-	url = ../mono-basic-compat.git
+	url = https://github.com/wine-mono/mono-basic-compat.git
